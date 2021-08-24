@@ -97,6 +97,8 @@ body {
   margin: 3rem 0 calc(1.5rem + 1vh) 0;
   cursor: pointer;
   transition: all 0.3s ease-in-out;
+  text-transform: capitalize;
+  font-weight: 600;
 }
 
 .card__btn-1 {
