@@ -90,6 +90,7 @@ body {
 
 .card__btn {
   font-size: var(--font-size-text);
+  font-family: var(--font-family-text);
   padding: 1.2rem 3rem;
   background-color: var(--clr-primary-900);
   border: 2px solid var(--clr-primary-900);
